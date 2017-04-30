@@ -1,8 +1,8 @@
-# Web API - Documentation - Samples
-Tests with Web API - API Documentation Tools - API Help Pages and Swagger
-
 [![Build status](https://ci.appveyor.com/api/projects/status/au74uw330grse0li?svg=true)](https://ci.appveyor.com/project/FlavioLopes/webapidocsamples)
 
+
+# Web API - Documentation - Samples
+Tests with Web API - API Documentation Tools - API Help Pages and Swagger
 
 ## Swagger - API Documentation ##
 Swagger is a API Documentation Tool, intagrated on Visual Studio by Nuget Packages
