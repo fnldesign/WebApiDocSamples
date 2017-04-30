@@ -26,7 +26,7 @@ namespace WebApiDocsSamples.Controllers
                 for (int i = 1; i <= 10; i++)
                 {
                     idCategoria = i % 2;
-                    produtos.Add(new Models.Produto() { nome = "Produto " + i.ToString(), codigo = i, categoria=categorias[idCategoria] });
+                    produtos.Add(new Models.Produto() { nome = "Produto " + i.ToString(), codigo = i, categoria=categorias[idCategoria], ativo=true });
                 }
 
             }

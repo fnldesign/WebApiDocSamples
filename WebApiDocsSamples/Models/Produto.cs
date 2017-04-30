@@ -25,5 +25,11 @@ namespace WebApiDocsSamples.Models
         /// Categoria do Produto
         /// </summary>
         public CategoriaProduto categoria { get; set; }
+
+        /// <summary>
+        /// Indica se o produto está ativo
+        /// </summary>
+        /// <remarks>true - Produto Ativo / false - Produto inativo</remarks>
+        public bool ativo { get; set; }
     }
 }
