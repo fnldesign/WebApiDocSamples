@@ -11,7 +11,7 @@ I´m using [Swashbuckle](https://github.com/SEEK-Jobs/Swashbuckle) Visual Studio
 To see a tutorial using .NET Web API and Swagger see more at [Swashbuckle GitHub Repo](https://github.com/SEEK-Jobs/Swashbuckle) 
 
 *See Swagger UI in action bellow*
-![Swagger UI](./WebApiDocSamples/Images-Doc/SwaggerUI.png "Swagger UI API Documentation Screenshot")
+![Swagger UI](https://github.com/fnldesign/WebApiDocSamples/blob/master/WebApiDocsSamples/Images-Doc/SwaggerUI.png "Swagger UI API Documentation Screenshot")
 
 
 ## .NET Web API - Help Pages ##
@@ -24,7 +24,7 @@ See more at [HelpPages on Microsoft Website](https://docs.microsoft.com/en-us/as
 This MS Blog Post is usefull too [Introducing the ASP.NET Web API Help Page](https://blogs.msdn.microsoft.com/yaohuang1/2012/08/15/introducing-the-asp-net-web-api-help-page-preview/).
 
 *See Web API Test Client bellow*
-![Web Api Test Client](./WebApiDocSamples/Images-Doc/WebApiTestClient.png "Web Api Test Client Screenshot")
+![Web Api Test Client](https://github.com/fnldesign/WebApiDocSamples/blob/master/WebApiDocsSamples/Images-Doc/WebApiTestClient.png "Web Api Test Client Screenshot")
 
 ## On the Code ##
 Swashbuckle Configurations
